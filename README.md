@@ -1,7 +1,7 @@
 # Predictive_model_of_acute_-kidney_injury-MIMIC-IV-db
 This project employs a machine learning approach to predict acute kidney injury (AKI) in critically ill patients suffering from acute pancreatitis. The analysis and model development leverage the MIMIC-IV database, a comprehensive dataset containing de-identified health-related data associated with patients admitted to the intensive care unit (ICU).
 
-Project Objectives
+#Project Objectives
 
 Develop a machine learning model to predict the occurrence of AKI in critically ill patients with acute pancreatitis.
 
