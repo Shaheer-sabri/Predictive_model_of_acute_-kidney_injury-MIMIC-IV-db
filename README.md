@@ -87,14 +87,6 @@ This project employs a machine learning approach to predict acute kidney injury 
 - The MIMIC-IV database and the researchers who developed and maintain it.
 - Open-source libraries and tools used in this project.
 
-## License
-
-[Insert License Name, e.g., MIT License]
-
-## Contact
-
-For questions or suggestions, please contact [Your Name] at [Your Email].
-
 ## Future Work
 
 - Validation of the model on external datasets.
